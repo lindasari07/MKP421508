@@ -1,5 +1,5 @@
-Nama  : Linda Sari
-NIM   : 1821500068
+Nama  : Linda Sari,
+NIM   : 1821500068,
 PRODI : Teknologi Informasi
 
 # Resume Dynamic System
